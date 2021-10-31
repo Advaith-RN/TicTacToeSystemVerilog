@@ -1,0 +1,9 @@
+module win1(x,y,win);
+
+input logic [0:2]xa,ya;
+input logic [0:2]xb,yb
+
+output logic win;
+
+always
+if(xa[0]
